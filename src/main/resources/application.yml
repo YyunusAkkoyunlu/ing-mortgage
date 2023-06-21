@@ -1,0 +1,8 @@
+mortgage:
+  rates:
+    - maturityPeriod: 24
+      interestRate: 2
+      lastUpdate: 1993/08/06
+    - maturityPeriod: 48
+      interestRate: 4
+      lastUpdate: 1993/08/06
